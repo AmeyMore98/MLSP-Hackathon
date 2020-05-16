@@ -1,4 +1,4 @@
-# MLSP-Hackathon
+# Machine Learning Starter Program Hackathon - DataHack
 ### 4th Place Solution for DataHack's Machine Learning Starter Program Hackathon 
 Link to leaderboard: https://datahack.analyticsvidhya.com/contest/machine-learning-starter-program-hackathon/#LeaderBoard
 
